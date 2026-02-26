@@ -1,4 +1,4 @@
-# shengshenglab
+# shengsheng
 
 LLM training & inference performance engineer  
 Distributed parallelism (DP/TP/PP/ZeRO/SP) · MoE · profiling & optimization
