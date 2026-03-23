@@ -1,11 +1,14 @@
 # shengsheng
 
-LLM training & inference performance engineer  
-Distributed parallelism (DP/TP/PP/ZeRO/SP) · MoE · profiling & optimization
+主业做大模型训练，空闲时间研究 AI 编程与应用实现。  
+关注借助大模型快速实现可用工具、产品原型与实际应用，也持续思考如何把想法更高效地落成真实可用的工程系统。
 
-**Current focus: sglang inference optimization**  
-- Metrics: TTFT / TPOT / p99 latency, throughput & stability under concurrency  
-- Topics: scheduling & batching, KV cache, prefill vs decode, profiling & benchmarking  
-- Outputs: de-identified engineering notes · reproducible experiments · scripts / small tools
+**当前关注方向：AI 编程与快速应用实现**  
+- 用 AI 加速工具开发、原型构建与工程落地
+- 关注从想法到可用实现的完整过程：问题抽象、方案设计、代码生成、系统集成与迭代优化
+- 偏好简洁、直接、可复用的技术方案
+- 持续记录实践、沉淀经验，并逐步开源一些过程中的脚本、工具与实验
 
-> Goal: make LLM inference optimization reproducible, measurable, and practical.
+> 希望把 AI 驱动的软件实现做得更高效、更稳定，也更贴近真实使用场景。
+
+English: [README in English](./README_EN.md)
